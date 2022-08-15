@@ -8,7 +8,7 @@ const About = () => {
                 HOME WITHOUT RELOAD PAGE
             </Link>
             <div>
-                <a href="/">HOME RELOADING PAGE</a>
+                <a href="/">HOME RELOADING PAaGE</a>
             </div>
         </div>
     )
